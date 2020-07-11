@@ -6,8 +6,8 @@
 `include "uvm_macros.svh"
 
 
-package simpleadder_pkg																	;
-	import uvm_pkg::*																	;
+package simpleadder_pkg;
+	import uvm_pkg::*;
 	`include "simpleadder_config.sv"
 	`include "simpleadder_transaction.svh"
 	`include "simpleadder_sequencer.sv"
