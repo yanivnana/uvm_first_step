@@ -1,0 +1,13 @@
+UVM 1.2
+-----------------------
+
+edit the modelsim.ini file as follows:
+;mtiUvm = $MODEL_TECH/../uvm-1.1d		- the default commented out
+mtiUvm = $MODEL_TECH/../uvm-1.2
+
+Running
+-----------------------
+1. extract the code into new folder
+2. from modelsim command line:
+> cd /new-folder
+> do sim_ver_sa.do
