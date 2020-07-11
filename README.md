@@ -6,6 +6,6 @@ https://github.com/pedro-araujo/uvm-testbench-tutorial-simple-adder
 The current contribution introduce 4 modifications:
 
 1. runs on uvm 1.2 / modelsim / windows
-2. shows transactions on waveform
-3. shows hierarchical configuration
-4. shows DPI-C from within SV/UVM
+2. examplify transactions on waveform
+3. examplify hierarchical configuration
+4. examplify DPI-C from within SV/UVM
